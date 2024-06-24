@@ -19,7 +19,7 @@ To exit from the nano editor press Cntrl+X and then press Y
 ```
 sudo nano /opt/tomcat/conf/tomcat-users.xml
 ```
-Paste in tomact.users.xml file
+Paste in tomact.users.xml file before </tomcat-users> tag
 ------------------------------------------------------------------------------------------------------------------------
 ```
 <role rolename="manager-gui, manager-script" />
